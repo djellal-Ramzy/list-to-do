@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  height: auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #191b1f;
+  direction: rtl;
+  padding: 30px;
+  
+}
+.iconButon:hover{
+  background-color: #29292b !important;
+}
+.mycard:hover{
+  padding:  20px 0 ;
+}
+.mycard{
+  transition: all 0.2s !important;
+  margin: 10px;
+}
